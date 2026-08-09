@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/atulsingh-xd/C-DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/atulsingh-xd/C-DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/atulsingh-xd/C-DSA/tree/master/0169-majority-element) |
+| [0287-find-the-duplicate-number](https://github.com/atulsingh-xd/C-DSA/tree/master/0287-find-the-duplicate-number) |
 | [3731-find-missing-elements](https://github.com/atulsingh-xd/C-DSA/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/atulsingh-xd/C-DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/atulsingh-xd/C-DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/atulsingh-xd/C-DSA/tree/master/0088-merge-sorted-array) |
+| [0287-find-the-duplicate-number](https://github.com/atulsingh-xd/C-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/atulsingh-xd/C-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/atulsingh-xd/C-DSA/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/atulsingh-xd/C-DSA/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -110,4 +113,16 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/atulsingh-xd/C-DSA/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/atulsingh-xd/C-DSA/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/atulsingh-xd/C-DSA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/atulsingh-xd/C-DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
